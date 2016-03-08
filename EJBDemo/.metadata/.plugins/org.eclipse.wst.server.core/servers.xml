@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-time="1" hostname="localhost" id="JBoss AS 7.11457438823227" name="JBoss AS 7.1" org.jboss.ide.eclipse.as.core.server.EXPOSE_MANAGEMENT_SERVICE="true" org.jboss.ide.eclipse.as.core.server.IGNORE_LAUNCH_COMMANDS="false" org.jboss.ide.eclipse.as.core.server.attributes.shutdownPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.attributes.startupPollerKey="org.jboss.ide.eclipse.as.core.runtime.server.WebPoller" org.jboss.ide.eclipse.as.core.server.deployDirectoryType="server" org.jboss.ide.eclipse.as.core.server.serverMode="local" runtime-id="JBoss 7.1 Runtime" server-type="org.jboss.ide.eclipse.as.71" server-type-id="org.jboss.ide.eclipse.as.71" start-timeout="450" stop-timeout="450" timestamp="2">
+    <list key="modules" value0="CalcEARApp::org.eclipse.jst.jee.server:CalcEARApp::jst.ear::6.0"/>
+  </server>
+</servers>
